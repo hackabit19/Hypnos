@@ -6,7 +6,7 @@ class WebViewInFlutter extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return WebviewScaffold(
-        url: 'https://ziet-deploy.sjha2048.now.sh',
+        url: 'https://maatools.netlify.com',
         hidden: true,
         appBar: AppBar(
           elevation: 2.0,
